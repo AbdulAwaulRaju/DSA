@@ -1,0 +1,1 @@
+Imagine you are tasked with sorting a small stack of papers containing important documents. The papers are scattered randomly, and each document has a unique identifier. To efficiently organize the papers, in descending order you decide to use a suitable divide and conquer algorithm.
